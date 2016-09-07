@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">记账本</string>
+    <string name="app_setting">设置</string>
+    <string name="app_record">记一下</string>
+</resources>
